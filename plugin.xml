@@ -6,6 +6,8 @@
 
     <name>WebSocket</name>
     
+    <access origin="192.168.26.254:3636" />
+    
     <keywords>phonegap,websocket,android</keywords>
     
     <description>
